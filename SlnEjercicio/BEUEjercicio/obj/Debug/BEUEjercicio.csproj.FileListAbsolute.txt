@@ -1,0 +1,12 @@
+C:\Users\JASSON SALGUERO\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\BEUEjercicio.dll.config
+C:\Users\JASSON SALGUERO\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\BEUEjercicio.dll
+C:\Users\JASSON SALGUERO\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\BEUEjercicio.pdb
+C:\Users\JASSON SALGUERO\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\EntityFramework.dll
+C:\Users\JASSON SALGUERO\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JASSON SALGUERO\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\EntityFramework.xml
+C:\Users\JASSON SALGUERO\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JASSON SALGUERO\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\obj\Debug\BEUEjercicio.csprojAssemblyReference.cache
+C:\Users\JASSON SALGUERO\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\obj\Debug\BEUEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\JASSON SALGUERO\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\obj\Debug\BEUEjercicio.csproj.CopyComplete
+C:\Users\JASSON SALGUERO\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\obj\Debug\BEUEjercicio.dll
+C:\Users\JASSON SALGUERO\source\repos\Ejercicio-Certif-I\SlnEjercicio\BEUEjercicio\obj\Debug\BEUEjercicio.pdb

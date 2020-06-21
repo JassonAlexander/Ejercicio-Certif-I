@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using BEUEjercicio;
 
 namespace PryEjercicio.Controllers
 {
@@ -10,12 +11,15 @@ namespace PryEjercicio.Controllers
     {
         public ActionResult Index()
         {
+            //Alumno a = new Alumno();
+            //a.nombres = "Juan Perez";
+
             return View();
         }
 
         public ActionResult About()
         {
-            ViewBag.Message = "Certificacion I - NRC 7614";
+            //ViewBag.Message = "Certificacion I - NRC 7614";
 
             return View();
         }
